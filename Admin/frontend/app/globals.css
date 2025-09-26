@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Bangladesh Police inspired palette */
+:root {
+  --police-blue: #0a2f6b; /* primary */
+  --police-gold: #ffd700; /* accent */
+  --police-blue-weak: #e9eef7; /* soft bg */
+}
+
+html,
+body {
+  height: 100%;
+}
