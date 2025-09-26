@@ -1,5 +1,6 @@
 
 # Thana Management Project
+A project built to ease citizens’ pain and bridge the gap between people and law-enforcement through smart digital management✨
 
 This project contains two main folders:
 - **Admin**
